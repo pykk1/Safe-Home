@@ -1,4 +1,4 @@
-# Lab 7 - Safe Home Access
+# Safe Home Access
 
 
 ## Exercise 1 - Java implementation
